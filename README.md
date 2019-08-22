@@ -1,6 +1,6 @@
 # Data-Projects
 
-The projects listed are a mix of assignments from datacamp (bitcoin/mobydick) and my own (predict genre, olympics, psych measures, world happiness)
+The projects listed are a mix of assignments from datacamp (bitcoin/mobydick/inter debt) and my own (predict genre, olympics, psych measures, world happiness)
 
 Use https://htmlpreview.github.io/ to preview html files or the following links:
 
@@ -21,6 +21,9 @@ https://htmlpreview.github.io/?https://github.com/atreides326/Data-Projects/blob
 
 6. Cryptocurrency 
 https://htmlpreview.github.io/?https://github.com/atreides326/Data-Projects/blob/master/Exploring%20the%20Bitcoin%20Cryptocurrency%20Market/Bitcoin.html
+
+7. International Debt
+https://htmlpreview.github.io/?https://github.com/atreides326/Data-Projects/blob/master/Analyze%20International%20Debt%20Statistics/International%20Debt.html
 
 
 
