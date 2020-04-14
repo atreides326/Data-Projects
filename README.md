@@ -1,9 +1,11 @@
 # Data-Projects
 
-The projects listed are a mix of assignments from datacamp (bitcoin/mobydick/inter debt) and my own (predict lyric genre, olympics, psych measures, world happiness, three door puzzle)
+The projects listed are a mix of assignments from datacamp (bitcoin/mobydick/inter debt), Udacity (donor project), and my own (predict lyric genre, olympics, psych measures, world happiness, three door puzzle)
 
 Use https://htmlpreview.github.io/ to preview html files or the following links:
 
+Donor Project
+https://htmlpreview.github.io/?https://github.com/atreides326/Data-Projects/blob/master/finding_donors/finding_donors.html
 
 World Happiness 2019
 https://htmlpreview.github.io/?https://github.com/atreides326/Data-Projects/blob/master/World%20Happiness%202019/worldhappiness2.html
